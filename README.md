@@ -4,9 +4,11 @@ CapiBook
 Capistrano用レシピ集
 
 
-## Installation
+Installation
+--------
 
-TBD
+    $ gem install capi_book --pre
+
 
 ## Usage
 
