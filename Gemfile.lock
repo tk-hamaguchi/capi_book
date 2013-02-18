@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    capi_book (0.0.1)
+    capi_book (0.0.1.pre)
 
 GEM
   remote: https://rubygems.org/
