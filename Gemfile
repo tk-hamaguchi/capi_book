@@ -1,4 +1,16 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in capi_book.gemspec
+gem 'rake'
+gem 'yard', require: false
+gem 'redcarpet', require: false
+
+
+group :test do
+  gem 'rspec', '~>2.12.0'
+  gem 'cucumber'
+  gem 'simplecov'
+  gem 'simplecov-rcov'
+  gem 'aruba'
+end
+
 gemspec
