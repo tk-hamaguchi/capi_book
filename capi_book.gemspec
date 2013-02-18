@@ -7,9 +7,9 @@ Gem::Specification.new do |gem|
   gem.name          = "capi_book"
   gem.version       = CapiBook::VERSION
   gem.authors       = ["Takahiro HAMAGUCHI"]
-  gem.email         = ["tk.hamaguchi@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.email         = ["tk_hamaguchi@xml-lab.jp"]
+  gem.description   = %q{Recipe book for capistrano}
+  gem.summary       = %q{Recipe book for capistrano.}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
